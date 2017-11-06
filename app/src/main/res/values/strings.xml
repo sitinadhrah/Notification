@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="stop_alarm">Stop Alarm</string>
+</resources>
